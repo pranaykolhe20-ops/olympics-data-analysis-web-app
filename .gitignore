@@ -2,3 +2,4 @@ venv
 env
 athelete_event.csv
 noc_regions.csv
+__pycache__
